@@ -34,7 +34,7 @@
 
 * The Common Language Runtime (CLR) catches exceptions not handled by catch blocks. If an exception is caught by the CLR, one of the following results may occur depending on your CLR configuration:
 
-  * Debugger box appears 
+  * Debugger box appears
 
   * The program stops execution and box with execution info appears
 
