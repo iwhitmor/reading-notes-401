@@ -6,9 +6,9 @@
 
 ### [Code 102](https://iwhitmor.github.io/reading-notes/)
 
-### [Code 201](https://github.com/iwhitmor/reading-notes-201)
+### [Code 201](https://iwhitmor.github.io/reading-notes-201/)
 
-### [Code 301](https://github.com/iwhitmor/reading-notes-301)
+### [Code 301](https://iwhitmor.github.io/reading-notes-301/)
 
 ### [Code 401](/reading-notes-401.md)
 
