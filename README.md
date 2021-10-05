@@ -1,8 +1,17 @@
-# Reading Notes
+# Delta V Code School Reading Notes
 
-> Here are all of my reading notes for Code 401. Click the links below to go to my different pages of notes.
+## About Me
 
 ## Table of Contents
 
-* Reading 1: [Exception Handling & Debugging](/reading01.md)
-* Reading 2: [Unit Testing and Documentation](/reading02.md)
+### [Code 102](https://iwhitmor.github.io/reading-notes/)
+
+### [Code 201](https://github.com/iwhitmor/reading-notes-201)
+
+### [Code 301](https://github.com/iwhitmor/reading-notes-301)
+
+### [Code 401](/reading-notes-401.md)
+
+#### [GitHub](https://github.com/iwhitmor)
+
+#### [LinkedIn](https://www.linkedin.com/in/ianwhitmor/)
