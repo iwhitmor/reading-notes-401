@@ -1,10 +1,8 @@
 # Reading Notes
 
-> Here are all of my reading notes for Code 102, 201, 301, and 401. Click the links below to go to my different pages of notes
+> Here are all of my reading notes for Code 401. Click the links below to go to my different pages of notes.
 
 ## Table of Contents
 
-* [Class 102: [Exception Handling & Debugging](/reading01.md)
-* {Class 201:]()
-* Class 301: []()
-* Class 401: []()
+* Reading 1: [Exception Handling & Debugging](/reading01.md)
+* Reading 2: [Unit Testing and Documentation](/reading02.md)
