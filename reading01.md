@@ -44,6 +44,6 @@
 
 * Statements are program instructions. Except as described in the topics referenced in the following table, statements are executed in sequence. The following table lists the C# statement keywords. For more information about statements that are not expressed with any keyword, see Statements.
 
-### Additional REsources
+### Additional Resources
 
 * Information taken from linked provided above
