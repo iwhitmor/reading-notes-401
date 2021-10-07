@@ -67,4 +67,4 @@
 
 ### Additional Resources
 
-* Information taken from linked provided above
+* Information taken from links provided above
