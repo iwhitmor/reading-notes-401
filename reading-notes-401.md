@@ -9,3 +9,4 @@
 * Reading 2: [Unit Testing and Documentation](/reading02.md)
 * Reading 3: [File Manipulation / System.IO](/reading03.md)
 * Reading 4: [Classes & Memory Management](/reading04.md)
+* Reading 5: [Linked Lists](/reading05.md)
