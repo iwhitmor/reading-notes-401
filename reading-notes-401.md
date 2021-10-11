@@ -10,3 +10,4 @@
 * Reading 3: [File Manipulation / System.IO](/reading03.md)
 * Reading 4: [Classes & Memory Management](/reading04.md)
 * Reading 5: [Linked Lists](/reading05.md)
+* Reading 6: [Object Oriented Principles](/reading06.md)
