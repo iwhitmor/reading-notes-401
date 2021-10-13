@@ -12,3 +12,4 @@
 * Reading 5: [Linked Lists](/reading05.md)
 * Reading 6: [Object Oriented Principles](/reading06.md)
 * Reading 7: [Interfaces](/reading07.md)
+* Reading 8: [Collections & Enums](/reading08.md)
