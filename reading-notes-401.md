@@ -14,3 +14,4 @@
 * Reading 7: [Interfaces](/reading07.md)
 * Reading 8: [Collections & Enums](/reading08.md)
 * Reading 9: [LINQ & Delegates](/reading09.md)
+* Reading 11: [Introduction to Databases and ERDs](/reading11.md)
