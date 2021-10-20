@@ -85,7 +85,7 @@ Liskov Substitution
 
 Interface Segregation
 
-<img src="<https://miro.medium.com/max/5200/1*2hmyR9L43Vm64MYxj4Y89w.png> />
+<img src="<https://miro.medium.com/max/5200/1*2hmyR9L43Vm64MYxj4Y89w.png" />
 
 Dependency Inversion
 
