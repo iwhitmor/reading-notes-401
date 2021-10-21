@@ -17,3 +17,4 @@
 * Reading 11: [Introduction to Databases and ERDs](/reading11.md)
 * Reading 12: [Entity Framework and APIs](/reading12.md)
 * Reading 13: [Dependency Injection](/reading13.md)
+* Reading 14: [Navigation Properties and Routing](/reading14.md)
