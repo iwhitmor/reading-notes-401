@@ -35,25 +35,25 @@
 
 * There are four different ways to create forms in ASP.NET MVC
 
-  * Weakly Typed (Synchronous)
+  * ***Weakly Typed (Synchronous)***
   
     * Weakly typed forms are the easiest forms to create in MVC
 
     * Mostly used when you need to create a form with one or two input items
 
-  * Strongly Typed (Synchronous)
+  * ***Strongly Typed (Synchronous)***
 
     * In this method, we send objects (model) instead of sending each item as parameter. It is easy to maintain because you don't need to remember each input item and IntelliSense will show you automatically the each item
 
-  * Strongly Typed AJAX (Asynchronous)
+  * ***Strongly Typed AJAX (Asynchronous)***
 
     * Asynchronous AJAX form is a very magical way to submit data to the controller without happening page load. Asynchronous AJAX Forms simply post back the data to the controllers and update the only that part of the page, which has to display output
 
     * To make this happen, we will use JQuery-Unobstrusive-AJAX. This is a great feature which is launched in MVC 3. It helps you to create AJAX Form without writing bunch of javascript code
 
-  * HTML, AJAX and JQUERY
+  * ***HTML, AJAX and JQUERY***
 
-    * In this method, you can not only send data from input controls but can also use html elements like <p>…</p>, <span>…</span> to send data to controllers. This is pure JQuery and AJAX query
+    * In this method, you can not only send data from input controls but can also use html elements like ```<p>```, ```<\p>```, ```<span>```, and ```<\span>``` to send data to controllers. This is pure JQuery and AJAX query
 
 ### Additional Resources
 
