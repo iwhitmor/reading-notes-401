@@ -20,3 +20,5 @@
 * Reading 14: [Navigation Properties and Routing](/reading14.md)
 * Reading 16: [Data Transfer Objects](/reading16.md)
 * Reading 17: [MVC Forms](/reading17.md)
+* Reading 18: [Identity / Authentication](/reading18.md)
+
