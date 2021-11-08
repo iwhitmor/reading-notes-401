@@ -22,4 +22,4 @@
 * Reading 17: [MVC Forms](/reading17.md)
 * Reading 18: [Identity / Authentication](/reading18.md)
 * Reading 19: [Roles, Claims, Tokens](/reading19.md)
-
+* Reading 26: [Intro to MVC](/reading26.md)
