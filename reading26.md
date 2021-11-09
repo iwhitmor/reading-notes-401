@@ -47,3 +47,5 @@
 ### Additional Resources
 
 #### [Bootstrap](https://getbootstrap.com/)
+
+* * Some information taken from the website listed above
