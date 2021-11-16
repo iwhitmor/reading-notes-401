@@ -27,3 +27,4 @@
 * Reading 28: [Auth & Cookies](/reading28.md)
 * Reading 29: [Azure Blob Storage](/reading29.md)
 * Reading 31: [Razor Pages](/reading31.md)
+* Reading 32: [View Components](/reading32.md)
