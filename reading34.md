@@ -83,4 +83,11 @@
 * Validation, Refunds, and Settlement
 
   * If the customer’s credit card is declined you will usually see a general message such as “there was a problem processing your credit card.”  For security reasons, the online user will usually not see the specific reasons for the failure, such as a decline
-  
+
+### Additional Resources
+
+* [Authorize .NET Developer Docs](https://developer.authorize.net/api/reference/index.html)
+
+* [Authorize .NET SDK](https://github.com/AuthorizeNet/sdk-dotnet)
+
+* Some infomation taken from the links provided above
