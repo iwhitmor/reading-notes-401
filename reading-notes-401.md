@@ -30,3 +30,4 @@
 * Reading 32: [View Components](/reading32.md)
 * Reading 34: [Payment Processing](/reading34.md)
 * Reading 36: [JAM Stack](/reading36.md)
+* Reading 37: [React: Hooks, Events, Forms, State, & Components](/reading37.md)
