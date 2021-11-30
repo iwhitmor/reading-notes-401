@@ -62,7 +62,7 @@
 
   * With a controlled component, the input’s value is always driven by the React state. While this means you have to type a bit more code, you can now pass the value to other UI elements too, or reset it from other event handlers
 
-## [Components and Props](https://reactjs.org/docs/components-and-props.html)
+### [Components and Props](https://reactjs.org/docs/components-and-props.html)
 
 * Composing Components
 
